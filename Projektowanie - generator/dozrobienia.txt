@@ -1,0 +1,17 @@
+Co trzeba zrobić:
+1. Generuj pierwsze pokolenie+
+2. Oceń osobniki
+3. Skrzyżuj
+4. Powiel
+5. Wróć do punktu 2.
+
+Cyli do zrobienia:
+1. Interfejs pokolenia+/-
+2. Funkcja powielająca+
+3. Funkcja krzyżująca
+3.1. Funkcja mutująca
+4. Interfejs wczytujący pokolenie+
+5. Funkcja porównująca+
+6. Funkcja tworzaca genotyp+
+7. Interpreter genotypu+
+8. Funkcja rysująca obraz z genotypu+
